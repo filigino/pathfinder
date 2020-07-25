@@ -23,13 +23,16 @@ After the start and end nodes have been placed:
 <img src="./README/GUI_demo.gif" width="35%" />
 GUI
 <br/>
+<br/>
 
 <img src="./README/DFS.gif" width="35%" />
 Depth-first search
 <br/>
+<br/>
 
 <img src="./README/BFS.gif" width="35%" />
 Breadth-first search
+<br/>
 <br/>
 
 <img src="./README/A-star.gif" width="35%" />
