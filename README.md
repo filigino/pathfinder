@@ -1,6 +1,8 @@
 # Pathfinding Visualizer
 Visualizer for popular searching algorithms
 
+Inspired by [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)'s [A* Pathfinding Visualization Program](https://www.youtube.com/watch?v=JtiK0DOeI4A)
+
 ## Usage
 
 - Click anywhere to place the start node
